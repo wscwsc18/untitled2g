@@ -9,6 +9,7 @@ public class Demo {
     }
 
 
+/*
     d
     d
 
@@ -19,6 +20,7 @@ public class Demo {
             d
     dd
                     d
+*/
 
 
 
@@ -27,10 +29,12 @@ public class Demo {
         this.index = index;
     }
 
-
+/*
+sadkj四度空间的看法 得到的
     \
     \
     zxvzxcxcz
+*/
 
 
 
